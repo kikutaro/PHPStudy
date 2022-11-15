@@ -1,0 +1,6 @@
+{
+    "name": "PHPStudy",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
